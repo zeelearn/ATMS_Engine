@@ -1,0 +1,5 @@
+P_O_Number,P_O_Date,Vendor_Code,Order_Qty,Vendor_Name,Material_Code,Material_Description,Order_By,Rate,Cost_Center
+5.2012E+14,02.02.2016,V10000002,10,samsung Electronic,IT1510000003,Samsung Tablet,MB,1,0101A
+52040699,03.02.2016,V10000002,5,samsung Electronic,IT1510000009,Lenovo Tablet,MB,11,0101A
+53320919,03.02.2016,V10000002,25,samsung Electronic,IT1610000023,Dell Laptop,MB,21,0101fA
+5.25403E+12,02.02.2016,V100003002,10,samsung Electronic,IT1610000025,lenovo laptop,MB,1,0101A
